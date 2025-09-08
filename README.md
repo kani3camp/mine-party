@@ -1,0 +1,3 @@
+# mine-party
+
+Initial repository.
